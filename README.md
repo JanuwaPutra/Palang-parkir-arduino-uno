@@ -4,3 +4,11 @@
 #Hasil
 ![alt text](https://github.com/JanuwaPutra/Palang-parkir-arduino-uno/blob/main/Hasil/lv_0_20230917221613.gif?raw=true)
 
+#Alat yang dibutuhkan
+1. Arduino uno
+2. Moto servo
+3. Lcd 16x2
+4. kabel jumping
+5. potentiometer
+6. sensor infrared
+7. adaptor 12v
